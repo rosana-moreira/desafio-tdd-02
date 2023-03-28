@@ -41,7 +41,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone git@github.com:vanessa-maganhoto/bds02-desafio-TDD.git
+git clone git@github.com:rosana-moreira/desafio-tdd-02.git
 
 # executar o projeto
 ./mvnw spring-boot:run
